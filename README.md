@@ -1,11 +1,11 @@
-# 🚨 Internship Application Anomaly Detection System
+#  Internship Application Anomaly Detection System
 
-## 🔷 Project Overview
+##  Project Overview
 This project focuses on detecting suspicious or fraudulent internship applications using machine learning techniques. By analyzing patterns such as rapid submissions, duplicate entries, and inconsistent data, the system identifies anomalies to improve data integrity and security.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To identify and flag abnormal internship applications using data analysis and machine learning algorithms, enabling early detection of fake or suspicious entries.
 
 ---
